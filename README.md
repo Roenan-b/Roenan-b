@@ -8,8 +8,7 @@ I'm a passionate 2nd-year software engineering student at the University of Ariz
 - Minoring in Systems Engineering to gain a holistic understanding of complex systems and their interactions.
 
 ### Professional Experience
-During the summer of 2023, I had the opportunity to work as an intern where I developed a compressor tester, gaining valuable hands-on experience in hardware-software integration and testing procedures. Currently, I'm an engineering intern at Air Lift, actively involved in coding projects that challenge and enrich my understanding of software development.
-
+During the summer of 2023, I had the opportunity to work as an intern where I developed a compressor tester, gaining valuable hands-on experience in hardware-software integration and testing procedures. Currently, I'm finishing my Spring semester as a student and plan to return to Air Lift for another internship during the Summer of 2024.
 ### Tech Stack
 I'm proficient in Python and Arduino programming, and I've recently expanded my skills to include C and C++. I'm also well-versed in UML object-oriented design and have experience working with Xcode. I'm currently setting up to design a small-scale iOS-based weather app, where I'll be applying my knowledge of iOS development and further honing my skills.
 

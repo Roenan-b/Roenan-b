@@ -19,7 +19,7 @@ I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been
 
 #### Internship Projects
 - [Compressor Tester](https://github.com/Roenan-b/Compressor-Tester): Tests the Air Lift Compressors for failures.
-- [Smart Hitch](htttps://github.com/Roenan-b): Trailer hitch that can make adjustments to air suspension.
+- [Smart Hitch](https://github.com/Roenan-b/Smart-Hitch): Trailer hitch that can make adjustments to air suspension.
 
 #### Personal Projects
 - [The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch): A website that monitors soil moisture for plant care.

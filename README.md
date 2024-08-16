@@ -28,4 +28,4 @@ I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been
 I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus is on enhancing my web development skills, particularly with React and Next.js, while continuing to work on meaningful projects like The Soil Watch.
 
 ### Get in Touch
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/roenan/) to keep track of my professional journey and latest projects. Let's connect, share ideas, and learn together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roenan/) to keep track of my professional journey and latest projects. Let's connect, share ideas, and learn together!

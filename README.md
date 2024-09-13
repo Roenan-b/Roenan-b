@@ -25,7 +25,7 @@ I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been
 - [The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch): A website that monitors soil moisture for plant care.
 
 ### Current Focus
-I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus is on enhancing my web development skills, particularly with React and Next.js, while continuing to work on meaningful projects like The Soil Watch and my new game in development, Rig of the Deep.
+I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus is on enhancing my web development skills, particularly with React and Next.js, while continuing to work on meaningful projects like The Soil Watch and my new Missile/Rocket Simulator.
 
 ### Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roenan/) to keep track of my professional journey and latest projects. Let's connect, share ideas, and learn together!

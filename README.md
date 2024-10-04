@@ -10,7 +10,7 @@ I'm a passionate 3rd-year software engineering student at the University of Ariz
 I completed an internship with Air Lift in the summer of 2023, where I developed a compressor tester, gaining valuable hands-on experience in hardware-software integration and testing procedures. I returned to Air Lift in the summer of 2024 to work on the software for a new project called Smart Hitch, which is set to be released soon.
 
 ### Tech Stack
-I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been expanding my skills in web development, learning React, and using Next.js as a framework. I also have experience in UML object-oriented design and have dabbled in iOS development. I’ve recently pushed the first version of my new website, The Soil Watch, which monitors soil moisture for plant care.
+I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been expanding my skills in web development, learning React and using Next.js as a framework. Additionally, I am deepening my understanding of Object-Oriented Programming (OOP) with Java and gaining experience in Verilog for hardware description. I also have experience in UML object-oriented design and have dabbled in iOS development. I’ve recently pushed the first version of my new website, **The Soil Watch**, which monitors soil moisture for plant care.
 
 ### Projects
 
@@ -25,7 +25,7 @@ I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been
 - [The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch): A website that monitors soil moisture for plant care.
 
 ### Current Focus
-I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus is on enhancing my web development skills, particularly with React and Next.js, while continuing to work on meaningful projects like The Soil Watch and my new Missile/Rocket Simulator.
+I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus includes enhancing my web development skills with React and Next.js, deepening my understanding of Object-Oriented Programming (OOP) with Java, and exploring Verilog for hardware design. I am also committed to working on meaningful projects like **The Soil Watch** and my new **Missile/Rocket Simulator**.
 
 ### Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roenan/) to keep track of my professional journey and latest projects. Let's connect, share ideas, and learn together!

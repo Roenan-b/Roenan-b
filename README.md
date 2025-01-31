@@ -26,8 +26,8 @@ I’ve recently pushed the first version of my new website, **[The Soil Watch](h
 - **Pharmacy Management System**: A system designed to **manage pharmaceutical inventory, prescriptions, and sales tracking**, improving efficiency in pharmacy operations.  
 
 ### **Internship Projects**  
-- **Compressor Tester**: Tests **Air Lift Compressors** for failures.  
-- **Smart Hitch**: A **trailer hitch** that can **automatically adjust air suspension**.  
+- **[Compressor Tester](https://github.com/Roenan-b/Compressor-Tester)**: Tests **Air Lift Compressors** for failures.  
+- **[Smart Hitch](https://github.com/Roenan-b/Smart-Hitch)**: A **trailer hitch** that can **automatically adjust air suspension**.  
 
 ### **Personal Projects**  
 - **[The Soil Watch](https://github.com/Roenan-b/soil-monitor)**: A **website that monitors soil moisture** for plant care.  

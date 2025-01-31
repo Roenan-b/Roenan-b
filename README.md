@@ -17,7 +17,7 @@ I'm a passionate **3rd-year software engineering student at the University of Ar
 - **Hardware & Embedded Systems:** Verilog, Arduino, ESP32  
 - **Other Skills:** UML Object-Oriented Design, iOS Development  
 
-I’ve recently pushed the first version of my new website, **[The Soil Watch](https://github.com/Roenan-b/soil-monitor)**, which monitors **soil moisture for plant care**.  
+I’ve recently pushed the first version of my new website, **[The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch)**, which monitors **soil moisture for plant care**.  
 
 ## 🚀 Projects  
 
@@ -30,7 +30,7 @@ I’ve recently pushed the first version of my new website, **[The Soil Watch](h
 - **[Smart Hitch](https://github.com/Roenan-b/Smart-Hitch)**: A **trailer hitch** that can **automatically adjust air suspension**.  
 
 ### **Personal Projects**  
-- **[The Soil Watch](https://github.com/Roenan-b/soil-monitor)**: A **website that monitors soil moisture** for plant care.  
+- **[The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch)**: A **website that monitors soil moisture** for plant care.  
 - **Missile/Rocket Simulator**: An ongoing project focused on **simulating missile/rocket trajectories**.  
 
 ## 🎯 Current Focus  

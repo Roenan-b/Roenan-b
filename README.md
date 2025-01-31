@@ -1,31 +1,50 @@
-## Hi there, I'm Roenan! 👋
+# Hi there, I'm Roenan! 👋  
 
-### About Me
-I'm a passionate 3rd-year software engineering student at the University of Arizona, with a strong enthusiasm for programming and technology. My journey in software development began with my fascination for creating projects that solve real-world problems. As a lifelong learner, I'm always seeking opportunities to enhance my programming skills and expand my knowledge in various domains.
+## About Me  
+I'm a passionate **3rd-year software engineering student at the University of Arizona**, a **patented software engineer**, and a proud member of the **Defense Civilian Training Corps (DCTC)**. My fascination with programming and technology drives me to create projects that solve real-world problems. As a lifelong learner, I'm always seeking opportunities to **enhance my programming skills** and expand my knowledge in various domains.  
 
-### Education
-- Pursuing a Bachelor's degree in Software Engineering at the University of Arizona.
+## 🎓 Education  
+- Pursuing a **Bachelor's degree in Software Engineering** at the University of Arizona.  
 
-### Professional Experience
-I completed an internship with Air Lift in the summer of 2023, where I developed a compressor tester, gaining valuable hands-on experience in hardware-software integration and testing procedures. I returned to Air Lift in the summer of 2024 to work on the software for a new project called Smart Hitch, which is set to be released soon.
+## 💼 Professional Experience  
+### **Air Lift Company (Summer 2023 & 2024 Intern)**  
+- **2023**: Developed a **compressor tester**, gaining hands-on experience in **hardware-software integration and testing procedures**.  
+- **2024**: Worked on the software for **Smart Hitch**, a soon-to-be-released project revolutionizing trailer hitch systems.  
 
-### Tech Stack
-I’m proficient in C, C++, Python, and Arduino programming. Recently, I've been expanding my skills in web development, learning React and using Next.js as a framework. Additionally, I am deepening my understanding of Object-Oriented Programming (OOP) with Java and gaining experience in Verilog for hardware description. I also have experience in UML object-oriented design and have dabbled in iOS development. I’ve recently pushed the first version of my new website, **The Soil Watch**, which monitors soil moisture for plant care.
+## 🛠️ Tech Stack  
+- **Programming Languages:** C, C++, Python, Java, Arduino  
+- **Web Development:** React, Next.js  
+- **Hardware & Embedded Systems:** Verilog, Arduino, ESP32  
+- **Other Skills:** UML Object-Oriented Design, iOS Development  
 
-### Projects
+I’ve recently pushed the first version of my new website, **[The Soil Watch](https://github.com/Roenan-b/soil-monitor)**, which monitors **soil moisture for plant care**.  
 
-#### School Projects
-- [Go Fish](https://github.com/Roenan-b/Modified-Go-Fish-Game): A modified version of the classic card game "Go Fish."
+## 🚀 Projects  
 
-#### Internship Projects
-- [Compressor Tester](https://github.com/Roenan-b/Compressor-Tester): Tests the Air Lift Compressors for failures.
-- [Smart Hitch](https://github.com/Roenan-b/Smart-Hitch): Trailer hitch that can make adjustments to air suspension.
+### **School Projects**  
+- **Go Fish**: A modified version of the classic card game **Go Fish**.  
+- **Pharmacy Management System**: A system designed to **manage pharmaceutical inventory, prescriptions, and sales tracking**, improving efficiency in pharmacy operations.  
 
-#### Personal Projects
-- [The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch): A website that monitors soil moisture for plant care.
+### **Internship Projects**  
+- **Compressor Tester**: Tests **Air Lift Compressors** for failures.  
+- **Smart Hitch**: A **trailer hitch** that can **automatically adjust air suspension**.  
 
-### Current Focus
-I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus includes enhancing my web development skills with React and Next.js, deepening my understanding of Object-Oriented Programming (OOP) with Java, and exploring Verilog for hardware design. I am also committed to working on meaningful projects like **The Soil Watch** and my new **Missile/Rocket Simulator**.
+### **Personal Projects**  
+- **[The Soil Watch](https://github.com/Roenan-b/soil-monitor)**: A **website that monitors soil moisture** for plant care.  
+- **Missile/Rocket Simulator**: An ongoing project focused on **simulating missile/rocket trajectories**.  
 
-### Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roenan/) to keep track of my professional journey and latest projects. Let's connect, share ideas, and learn together!
+## 🎯 Current Focus  
+I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus includes:  
+- **Enhancing my web development skills** with **React** and **Next.js**.  
+- **Deepening my understanding of Object-Oriented Programming (OOP) with Java**.  
+- **Exploring Verilog for hardware design**.  
+- **Continuing development on The Soil Watch and my new Missile/Rocket Simulator**.  
+
+## 🏅 Patented Work & Leadership  
+As a **patented software engineer**, I am committed to **developing innovative solutions** that drive technology forward. My selection for **DCTC** highlights my dedication to projects that **serve a greater purpose**, while my induction into the **National Society of Leadership and Success (NSLS)** reflects my passion for **leadership, personal growth, and professional development**.  
+
+## 📬 Get in Touch  
+📌 **GitHub**: [github.com/Roenan-b](https://github.com/Roenan-b)  
+📌 **LinkedIn**: [linkedin.com/in/roenan/](https://www.linkedin.com/in/roenan/)  
+
+Feel free to **connect with me on LinkedIn** to keep track of my **professional journey and latest projects**. Let's connect, share ideas, and learn together! 🚀  

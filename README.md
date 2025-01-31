@@ -44,7 +44,6 @@ I'm dedicated to advancing my skills as a programmer and gaining hands-on experi
 As a **patented software engineer**, I am committed to **developing innovative solutions** that drive technology forward. My selection for **DCTC** highlights my dedication to projects that **serve a greater purpose**, while my induction into the **National Society of Leadership and Success (NSLS)** reflects my passion for **leadership, personal growth, and professional development**.  
 
 ## 📬 Get in Touch  
-📌 **GitHub**: [github.com/Roenan-b](https://github.com/Roenan-b)  
 📌 **LinkedIn**: [linkedin.com/in/roenan/](https://www.linkedin.com/in/roenan/)  
 
 Feel free to **connect with me on LinkedIn** to keep track of my **professional journey and latest projects**. Let's connect, share ideas, and learn together! 🚀  

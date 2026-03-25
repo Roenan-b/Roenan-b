@@ -1,49 +1,85 @@
-# Hi there, I'm Roenan! 👋  
+Hi, I'm Roenan Bingle
+About Me
 
-## About Me  
-I'm a passionate **3rd-year software engineering student at the University of Arizona**, a **patented software engineer**, and a proud member of the **Defense Civilian Training Corps (DCTC)**. My fascination with programming and technology drives me to create projects that solve real-world problems. As a lifelong learner, I'm always seeking opportunities to **enhance my programming skills** and expand my knowledge in various domains.  
+I am a software engineering student at the University of Arizona and a member of the Defense Civilian Training Corps (DCTC). My work sits at the intersection of software engineering, cybersecurity, and low-level systems analysis, with a strong focus on mission-critical and defense-oriented applications.
 
-## 🎓 Education  
-- Pursuing a **Bachelor's degree in Software Engineering** at the University of Arizona.  
+Education
+Bachelor of Science in Software Engineering
+University of Arizona
+Professional Experience
+Air Lift Company — Software Engineering Intern (Summer 2023, 2024)
+2023: Developed a compressor testing system, integrating hardware and software to validate performance and reliability.
+2024: Contributed to the development of Smart Hitch, a system designed to automatically adjust air suspension for towing applications.
+Technical Skills
 
-## 💼 Professional Experience  
-### **Air Lift Company (Summer 2023 & 2024 Intern)**  
-- **2023**: Developed a **compressor tester**, gaining hands-on experience in **hardware-software integration and testing procedures**.  
-- **2024**: Worked on the software for **Smart Hitch**, a soon-to-be-released project revolutionizing trailer hitch systems.  
+Languages:
+C, C++, Python, Java, Arduino
 
-## 🛠️ Tech Stack  
-- **Programming Languages:** C, C++, Python, Java, Arduino  
-- **Web Development:** React, Next.js  
-- **Hardware & Embedded Systems:** Verilog, Arduino, ESP32  
-- **Other Skills:** UML Object-Oriented Design, iOS Development  
+Systems & Low-Level:
+Reverse Engineering, Concolic Execution, Binary Analysis, Computer Architecture
 
-I’ve recently pushed the first version of my new website, **[The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch)**, which monitors **soil moisture for plant care**.  
+Web & Software:
+React, Next.js, REST APIs
 
-## 🚀 Projects  
+Embedded & Hardware:
+ESP32, Arduino, Verilog
 
-### **School Projects**  
-- **Go Fish**: A modified version of the classic card game **Go Fish**.  
-- **Pharmacy Management System**: A system designed to **manage pharmaceutical inventory, prescriptions, and sales tracking**, improving efficiency in pharmacy operations.  
+Tools & Concepts:
+angr, Ghidra, UML, Static/Dynamic Analysis, Threat Modeling
 
-### **Internship Projects**  
-- **[Compressor Tester](https://github.com/Roenan-b/Compressor-Tester)**: Tests **Air Lift Compressors** for failures.  
-- **[Smart Hitch](https://github.com/Roenan-b/Smart-Hitch)**: A **trailer hitch** that can **automatically adjust air suspension**.  
+Projects
+Research & Security
 
-### **Personal Projects**  
-- **[The Soil Watch](https://github.com/Roenan-b/The-Soil-Watch)**: A **website that monitors soil moisture** for plant care.  
-- **Missile/Rocket Simulator**: An ongoing project focused on **simulating missile/rocket trajectories**.  
+MCP Vulnerability Research
 
-## 🎯 Current Focus  
-I'm dedicated to advancing my skills as a programmer and gaining hands-on experience in various programming languages and technologies. My current focus includes:  
-- **Enhancing my web development skills** with **React** and **Next.js**.  
-- **Deepening my understanding of Object-Oriented Programming (OOP) with Java**.  
-- **Exploring Verilog for hardware design**.  
-- **Continuing development on The Soil Watch and my new Missile/Rocket Simulator**.  
+Investigating security risks in Model Context Protocol (MCP) systems, focusing on prompt injection and adversarial tool manipulation
+Built a testing framework to evaluate how LLM agents interact with external tools (filesystem, databases, repositories)
+Conducting structured threat modeling and adversarial evaluation of agent behavior
 
-## 🏅 Patented Work & Leadership  
-As a **patented software engineer**, I am committed to **developing innovative solutions** that drive technology forward. My selection for **DCTC** highlights my dedication to projects that **serve a greater purpose**, while my induction into the **National Society of Leadership and Success (NSLS)** reflects my passion for **leadership, personal growth, and professional development**.  
+Reverse Engineering & Concolic Execution Research
 
-## 📬 Get in Touch  
-📌 **LinkedIn**: [linkedin.com/in/roenan/](https://www.linkedin.com/in/roenan/)  
+Developing workflows for binary analysis using Ghidra and angr
+Exploring concolic execution techniques to analyze program paths and uncover vulnerabilities
+Working with cross-compiled binaries and emulation environments to study execution behavior at a low level
+Personal & Academic Projects
 
-Feel free to **connect with me on LinkedIn** to keep track of my **professional journey and latest projects**. Let's connect, share ideas, and learn together! 🚀  
+The Soil Watch
+
+https://github.com/Roenan-b/The-Soil-Watch
+Full-stack system for monitoring soil moisture using embedded sensors and a web interface
+
+Missile/Rocket Simulator
+
+Simulation of trajectory and system behavior for aerospace applications
+
+Compressor Tester
+
+https://github.com/Roenan-b/Compressor-Tester
+Hardware-integrated testing system for validating compressor performance
+
+Smart Hitch
+
+https://github.com/Roenan-b/Smart-Hitch
+Intelligent suspension control system for towing
+
+Pharmacy Management System
+
+Inventory and prescription tracking system for pharmacy operations
+
+Go Fish (Modified Implementation)
+
+Software implementation of the card game with custom rule variations
+Current Focus
+Concolic execution and symbolic analysis for vulnerability discovery
+Reverse engineering and binary-level program understanding
+Security of LLM agent systems (MCP and tool-integrated models)
+Cybersecurity applications for defense and mission-critical systems
+Leadership & Affiliations
+Defense Civilian Training Corps (DCTC)
+National Society of Leadership and Success (NSLS)
+
+My work is driven by a commitment to building secure, reliable systems that operate in high-stakes environments.
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/roenan/

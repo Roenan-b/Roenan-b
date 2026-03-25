@@ -2,8 +2,7 @@
 
 ## About Me  
 I am a software engineering student at the University of Arizona and a member of the Defense Civilian Training Corps (DCTC). My work focuses on software engineering, cybersecurity, and low-level systems analysis, with an emphasis on mission-critical and defense-oriented systems.  
-
-I approach engineering from a systems perspective—understanding how software is built, how it behaves at runtime, and how it can fail or be exploited.  
+  
 
 ## Education  
 - Bachelor of Science in Software Engineering  

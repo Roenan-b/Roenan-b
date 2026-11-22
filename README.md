@@ -87,16 +87,15 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 
 ## GitHub Activity
 
-<p align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=github_dark">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default">
 </picture>
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=github_dark">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&card_width=467&hide_border=true&theme=github_dark">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&card_width=467&hide_border=true&theme=default">
 </picture>
-</p>
 
 ---
 

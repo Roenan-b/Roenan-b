@@ -25,8 +25,8 @@ I study Software Engineering at the University of Arizona (B.S., expected May 20
 ## Experience
 
 **Space Systems Command, Los Angeles Air Force Base**  
-*Intern, FORGE program (via DCTC)* · Summer 2026  
-Placed with a Space Systems Command engineering team aligned with my major.
+*Cybersecurity Intern, FORGE (via DCTC)* · Summer 2026  
+Worked with the FORGE team on cybersecurity for satellite systems.
 
 **Air Lift Company**  
 *Software Engineering Intern* · Summer 2023, Summer 2024

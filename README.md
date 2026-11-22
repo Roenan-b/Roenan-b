@@ -6,6 +6,22 @@ I study Software Engineering at the University of Arizona (B.S., expected May 20
 
 ---
 
+## Tech Stack
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks and Data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Infrastructure and Tooling**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Embedded**  
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+---
+
 ## Experience
 
 **Space Systems Command, Los Angeles Air Force Base**
@@ -58,10 +74,16 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 
 ---
 
-## Technical Skills
+## Engineering Practice
 
 | Area | |
 |---|---|
+| **Security** | Threat modeling (STRIDE), binary analysis, reverse engineering, concolic execution, adversarial testing of LLM agents, applied cryptography, NIST SP 800-53, RMF |
+| **Analysis tooling** | angr, Ghidra, static and dynamic analysis, AArch64 cross-compilation and QEMU emulation |
+| **Hardware and protocols** | Verilog, CAN bus, BLE |
+| **Process** | Requirements engineering, UML, verification and test planning |
+
+---|---|
 | **Languages** | C, C++, Python, Java, JavaScript / Node.js, Verilog |
 | **Security** | Threat modeling (STRIDE), binary analysis, reverse engineering, concolic execution, adversarial testing of LLM agents, applied cryptography, NIST SP 800-53, RMF |
 | **Analysis tooling** | angr, Ghidra, static and dynamic analysis, AArch64 cross-compilation and QEMU emulation |
@@ -69,6 +91,21 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 | **Backend and infrastructure** | FastAPI, PostgreSQL, Supabase, Docker, GitHub Actions, Linux |
 | **Web** | React, Next.js, REST APIs |
 | **Process** | Requirements engineering, UML, verification and test planning |
+
+---
+
+## GitHub Activity
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=github_dark">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=github_dark">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=default" height="165">
+</picture>
+</p>
 
 ---
 

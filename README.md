@@ -66,6 +66,10 @@ Soil-moisture monitoring system. Battery-powered ESP32 sensor nodes in weather-r
 ### Missile / Rocket Simulator
 Simulation of flight trajectory and system behavior for aerospace applications.
 
+### Pipelined MIPS Processor · *ECE 369A team project, Fall 2025*
+Five-stage pipelined MIPS processor (IF, ID, EX, MEM, WB) in Verilog, built up across a lab series from a single instruction-fetch unit to a 30-instruction core with operand forwarding, load-use hazard detection with stall and bubble insertion, and branch and jump flushing. The processor runs a variable block size motion estimation (VBSME) kernel, hand-written in MIPS assembly, that searches frames up to 64x64 for the minimum sum-of-absolute-differences match of a 4x4 to 16x16 window, and shows the result on an FPGA board's seven-segment displays. Each module is individually testable, and a Makefile elaborates and simulates every lab with Icarus Verilog.  
+[`ECE-369-Labs`](https://github.com/Roenan-b/ECE-369-Labs) · Verilog, MIPS assembly, Xilinx Vivado, Icarus Verilog
+
 ### Pharmacy Management System · *SFWE 301 team project*
 Requirements and design for a pharmacy management system covering inventory, prescriptions, sales, and insurance claims, with a system context model. Includes a Java reporting module that produces operational reports (inventory levels, sales, drug usage, turnover, insurance claims, fill history, user activity) from structured data exports. *Repository private.*
 

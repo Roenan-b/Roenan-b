@@ -24,11 +24,11 @@ I study Software Engineering at the University of Arizona (B.S., expected May 20
 
 ## Experience
 
-**Space Systems Command, Los Angeles Air Force Base**
-*Intern, FORGE program (via DCTC)* · Summer 2026
+**Space Systems Command, Los Angeles Air Force Base**  
+*Intern, FORGE program (via DCTC)* · Summer 2026  
 Placed with a Space Systems Command engineering team aligned with my major.
 
-**Air Lift Company**
+**Air Lift Company**  
 *Software Engineering Intern* · Summer 2023, Summer 2024
 - **2024, Smart Hitch.** Led software for an aftermarket hitch-mounted sensing unit that drives an air-suspension system to keep a towing vehicle level. Embedded C/C++ on Arduino-class hardware, CAN communication with the suspension, sensor processing and control logic, UML design, and testing.
 - **2023, Compressor Tester.** Designed and built a test station for warranty-return air compressors by repurposing an obsolete leak-test fixture. Owned requirements, UML design, implementation, and deployment; the station supports all relevant compressor models and cut returned-unit processing time by roughly 50%.
@@ -87,14 +87,14 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 
 ## GitHub Activity
 
-<p>
+<p align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=github_dark">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default" height="165">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=github_dark">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=default" height="165">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roenan-b&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=default">
 </picture>
 </p>
 

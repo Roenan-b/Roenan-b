@@ -83,15 +83,6 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 | **Hardware and protocols** | Verilog, CAN bus, BLE |
 | **Process** | Requirements engineering, UML, verification and test planning |
 
----|---|
-| **Languages** | C, C++, Python, Java, JavaScript / Node.js, Verilog |
-| **Security** | Threat modeling (STRIDE), binary analysis, reverse engineering, concolic execution, adversarial testing of LLM agents, applied cryptography, NIST SP 800-53, RMF |
-| **Analysis tooling** | angr, Ghidra, static and dynamic analysis, AArch64 cross-compilation and QEMU emulation |
-| **Embedded** | ESP32, Arduino, CAN bus, BLE, PlatformIO |
-| **Backend and infrastructure** | FastAPI, PostgreSQL, Supabase, Docker, GitHub Actions, Linux |
-| **Web** | React, Next.js, REST APIs |
-| **Process** | Requirements engineering, UML, verification and test planning |
-
 ---
 
 ## GitHub Activity

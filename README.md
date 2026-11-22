@@ -88,8 +88,8 @@ Two-player Go Fish (user versus computer) in C on a reduced 36-card deck, with t
 ## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=github_dark">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Roenan-b&card_width=467&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=github_dark">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Roenan-b&card_width=467&show_icons=true&hide_border=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=default">
 </picture>
 <br>
 <picture>

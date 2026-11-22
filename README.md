@@ -27,6 +27,10 @@ I study Software Engineering at the University of Arizona (B.S., expected May 20
 **Space Systems Command, Los Angeles Air Force Base**  
 *Cybersecurity Intern, FORGE (via DCTC)* · Summer 2026  
 Worked with the FORGE team on cybersecurity for satellite systems.
+- Supported cybersecurity engineering and software assurance for space systems software, including secure software onboarding.
+- Proposed a framework for standardized vulnerability assessment and CVE management, covering identification, classification, prioritization, and remediation.
+- Wrote vulnerability management recommendations aligned with NIST SP 800-53 Rev. 5, NIST SP 800-161 Rev. 1, the Risk Management Framework, and CISA guidance, including KEV integration and EPSS-based prioritization.
+- Researched AI-enabled approaches to software assurance and vulnerability analysis.
 
 **Air Lift Company**  
 *Software Engineering Intern* · Summer 2023, Summer 2024
